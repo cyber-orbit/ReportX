@@ -1,7 +1,8 @@
 # 🔒 ReportX - Professional Cybersecurity Report Generator
 
 ReportX is a modern, user-friendly web application designed to streamline the creation of professional cybersecurity assessment reports. Built with React and Tailwind CSS, it offers an intuitive interface for security professionals to generate comprehensive reports in multiple formats.
-<img width="1280" height="588" alt="Screenshot From 2026-01-25 01-39-30" src="https://github.com/user-attachments/assets/6453d14a-01a9-49c2-9ebd-5a77e2abe107" />
+<img width="1363" height="693" alt="Screenshot From 2026-01-25 12-52-33" src="https://github.com/user-attachments/assets/a95a815d-aab2-45fa-b147-aace20d8934a" />
+<img width="1363" height="693" alt="Screenshot From 2026-01-25 12-52-22" src="https://github.com/user-attachments/assets/87c2df4e-a314-4470-9fae-ced1fa4bf32e" />
 
 ## ✨ Features
 
